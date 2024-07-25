@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "nombre":"agua chica",
+        "precio":1000,
+        "imagen":"../img/agua1.jpeg"
+        
+    },
+    {
+        "id": 2,
+        "nombre":"agua mediana",
+        "precio": 1500,
+        "imagen":"../img/agua2.jpeg"
+        
+    },
+    {
+        "id": 3,
+        "nombre":"bidon",
+        "precio": 2000,
+        "imagen":"../img/agua3.jpeg"
+        
+    },
+    {
+        "id": 4,
+        "nombre":"cerveza roja",
+        "precio": 3000,
+        "imagen":"../img/cervezas.jpeg"
+        
+    },
+    {
+        "id": 5,
+        "nombre":"cerveza negra",
+        "precio": 3500,
+        "imagen":"../img/cervezas.jpeg"
+        
+    },
+    {
+        "id": 6,
+        "nombre":"cerveza rubia",
+        "precio": 4000,
+        "imagen":"../img/cervezas.jpeg"
+        
+    },
+    {
+        "id": 7,
+        "nombre":"coca cola",
+        "precio": 2500,
+        "imagen":"../img/gaseosas.jpg"
+        
+    },
+    {
+        "id": 8,
+        "nombre":"fanta",
+        "precio": 2500,
+        "imagen":"../img/gaseosas.jpg"
+        
+    },
+    {
+        "id": 9,
+        "nombre":"sprite",
+        "precio": 2500,
+        "imagen":"../img/gaseosas.jpg"
+        
+    },
+    {
+        "id": 10,
+        "nombre":"jugos",
+        "precio": 2900,
+        "imagen":"../img/jugos.jpeg"
+        
+    },
+    {
+        "id": 11,
+        "nombre":"vino blanco",
+        "precio": 3500,
+        "imagen":"../img/vinos.jpeg"
+        
+    },
+    {
+        "id": 12,
+        "nombre":"vino tinto",
+        "precio": 5000,
+        "imagen":"../img/vinos.jpeg"
+        
+    },
+    {
+        "id": 13,
+        "nombre":"vino rosado",
+        "precio": 4500,
+        "imagen":"../img/vinos.jpeg"
+        
+    }
+    
+]
